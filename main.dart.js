@@ -54000,13 +54000,13 @@ k=A.bF(0,0,1)
 r=b.E(n).f.a.b*0.1
 return new A.hs(m,o,A.a4Y(s,B.k,A.a50(A.a3S(new A.hs(A.eW(A.a([new A.eC(q.eK(),p),A.bI(p,b.E(n).f.a.b*0.1,p),A.jE(),A.bI(p,b.E(n).f.a.b*0.2,p),new A.eF(p)],j),B.C,B.Q,B.z),A.eW(A.a([new A.eC(q.eK(),p),A.bI(p,b.E(n).f.a.b*0.1,p),A.jE(),A.bI(p,b.E(n).f.a.b*0.2,p),new A.eF(p)],j),B.C,B.Q,B.z),A.eW(A.a([new A.eC(q.eK(),p),A.bI(p,b.E(n).f.a.b*0.1,p),A.jE(),A.bI(p,b.E(n).f.a.b*0.2,p),new A.eF(p)],j),B.C,B.Q,B.z),p),k,new A.b2(r,r,r,r))),l),p)}}
 A.Tt.prototype={
-$0(){B.K.hs(window,"https://","RS")},
+$0(){B.K.hs(window,"https://rishikaswaraj.me/index.html#about","RS")},
 $S:1}
 A.Tu.prototype={
-$0(){B.K.hs(window,"https://","RS")},
+$0(){B.K.hs(window,"https://rishikaswaraj.me/index.html#projects","RS")},
 $S:1}
 A.Tv.prototype={
-$0(){B.K.hs(window,"https://","RS")},
+$0(){B.K.hs(window,"https://rishikaswaraj.me/","RS")},
 $S:1}
 A.eC.prototype={
 L(a,b){var s,r=null,q=t.w,p=b.E(q).f.a.a<800?B.eX:B.bF,o=t.E,n=A.a([new A.nJ(r)],o)
@@ -54036,7 +54036,7 @@ return A.qT(s,s,s,new A.eU(B.Ch,new A.A1(new A.qq("rs.jpg"),B.tG,B.aJ),s,s,s,s,B
 L(a,b){var s=this,r=s.c,q=t.E,p=A.e8(A.a([s.wS(b),r],q),B.C,B.eY,B.z),o=A.eW(A.a([s.wS(b),A.bI(null,b.E(t.w).f.a.b*0.1,null),r],q),B.C,B.bF,B.z)
 return new A.hs(p,A.e8(A.a([s.wS(b),r],q),B.C,B.eY,B.z),o,null)}}
 A.Tr.prototype={
-$0(){B.K.hs(window,"https://drive.google.com/file/d/1VEPQXUR0yufhi3OYwd376pPblcQOVVjP/view?usp=sharing","Resume")},
+$0(){B.K.hs(window,"#","Resume")},
 $S:0}
 A.Ts.prototype={
 $0(){B.K.hs(window,"mailto:rishikaswaraj237@gmail.com","Gmail")},
