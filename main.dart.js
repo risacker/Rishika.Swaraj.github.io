@@ -54036,7 +54036,7 @@ return A.qT(s,s,s,new A.eU(B.Ch,new A.A1(new A.qq("rs.jpg"),B.tG,B.aJ),s,s,s,s,B
 L(a,b){var s=this,r=s.c,q=t.E,p=A.e8(A.a([s.wS(b),r],q),B.C,B.eY,B.z),o=A.eW(A.a([s.wS(b),A.bI(null,b.E(t.w).f.a.b*0.1,null),r],q),B.C,B.bF,B.z)
 return new A.hs(p,A.e8(A.a([s.wS(b),r],q),B.C,B.eY,B.z),o,null)}}
 A.Tr.prototype={
-$0(){B.K.hs(window,"#","Resume")},
+$0(){B.K.hs(window,"https://drive.google.com/file/d/1VEPQXUR0yufhi3OYwd376pPblcQOVVjP/view?usp=sharing","Resume")},
 $S:0}
 A.Ts.prototype={
 $0(){B.K.hs(window,"mailto:rishikaswaraj237@gmail.com","Gmail")},
